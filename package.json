@@ -1,0 +1,23 @@
+{
+  "name": "dh-heroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanchoescalante21/dh-heroes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanchoescalante21/dh-heroes/issues"
+  },
+  "homepage": "https://github.com/juanchoescalante21/dh-heroes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
